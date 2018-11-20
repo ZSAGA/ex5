@@ -1,2 +1,3 @@
-print("je suis formateur")
+def formateur():
+    print("je suis formateur")
 
