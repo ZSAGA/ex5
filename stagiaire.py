@@ -1,3 +1,4 @@
-print("Je suis stagiaire")
+def stagiaire():
+   print("Je suis stagiaire")
 
 
