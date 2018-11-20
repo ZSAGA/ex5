@@ -1,0 +1,3 @@
+print("Je suis stagiaire")
+
+
