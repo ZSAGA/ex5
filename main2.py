@@ -1,3 +1,4 @@
-import formateur .py
+import formateur
 
-import stagiaire.py
+import stgiaire
+
